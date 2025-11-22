@@ -55,9 +55,10 @@ bulk_user_add.sh	            Adds multiple users from a list & assigns group
 
 📄 PDF Report
 The full Linux Challenge with commands, scripts, and screenshots is available in the repository:
-📎 View Full Challenge [linux challenge.pdf](https://github.com/user-attachments/files/23688926/linux.challenge.pdf)
+📎 View Full Challenge [Linux Challenge for DevOps ermohdayoub.pdf](https://github.com/user-attachments/files/23688997/Linux.Challenge.for.DevOps.ermohdayoub.pdf)
 
 🧑‍💻 Tech Stack
+
 - Linux (Ubuntu)
 - Bash Scripting
 - Cron Automation
